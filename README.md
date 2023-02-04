@@ -12,5 +12,3 @@ Also should be compatible with full size Pi (Display port keepout)
 * https://datasheets.raspberrypi.com/rpizero/raspberry-pi-zero-reduced-schematics.pdf
 * https://datasheets.raspberrypi.com/rpi3/raspberry-pi-3-b-plus-mechanical-drawing.pdf
 * https://datasheets.raspberrypi.com/rpi3/raspberry-pi-3-b-plus-reduced-schematics.pdf
-* https://datasheets.raspberrypi.com/rpizero/raspberry-pi-zero-reduced-schematics.pdf
-
