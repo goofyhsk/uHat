@@ -6,6 +6,7 @@ Also should be compatible with full size Pi (Display port keepout)
 
 ## Links
 
+* https://github.com/raspberrypi/hats
 * https://github.com/raspberrypi/hats/blob/master/uhat-board-mechanical.pdf
 * https://github.com/mikelawrence/RPi_Zero_pHat_Template
 * https://github.com/devbisme/RPi_Hat_Template
